@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Novel 7 Series</string>
+    <string name="_7_series_book">7 Series Book</string>
+    <string name="_7_book">7 Book</string>
+    <string name="synopsis">Raib yang biasa dipanggil Ra adalah anak perempuan yang memiliki kemampuan unik. Sejak umur 22 bulan, Ra bisa menghilang. Cukup menutup wajahnya dengan kedua telapak tangan, Ra pun hilang. Sekarang umur Raib 15 tahun dan kemampuannya itu tetap menjadi rahasianya. Selain bisa menghilang, Ra juga memiliki hal unik lainnya. Raib memiliki 2 kucing namanya Si Hitam dan Si Putih. api !rang tuanya hanya dapat melihat Si Putih. Pada usia 15 tahun, kejadian demi kejadian mulai datang dan tanpa disadari oleh Ra akan mengubah kehidupannya. mengungkap siapa Ra sesungguhnya.</string>
+    <string name="series_1_bumi">Series 1 Bumi</string>
+    <string name="content_1">Series 1 \n  Judul : Bumi \n  Halaman : 440 \n  Pengarang : Tere Liye \n Tanggal Terbit : 27 Januari 2014  \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="content2">Series 2 \n Judul : Bulan \n Halaman : 400 \n Pengarang : Tere Liye \nTanggal Terbit : 12 Maret 2015 \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="content3">Series 3 \n Judul : Matahari   \n Halaman : 390 \n Pengarang : Tere Liye \nTanggal Terbit : 25 Juli 2016 \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="content4">Series 4 \n Judul : Bintang \n Halaman : 392 \n Pengarang : Tere Liye \nTanggal Terbit : 12 Juni 2017 \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="content5">Series 5 \n Judul : Ceros dan Batozar \n Halaman : 376 \n Pengarang : Tere Liye \nTanggal Terbit : 28 May 2018 \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="content6">Series 6 \n Judul : Komet \n Halaman : 384 \n Pengarang : Tere Liye \nTanggal Terbit : 28 May 2018 \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="content7">Series 7 \n Judul : Komet Minor \n Halaman : 384 \n Pengarang : Tere Liye \nTanggal Terbit :  Maret 2019 \n Penerbit : Gramedia Pustaka Utama  \n Genre : Sci-Fi , Fantasy, Mystery</string>
+    <string name="maker">Pramudya Bagaskara \n @pramudyabgskra</string>
+    <string name="pembuat">Pembuat</string>
+</resources>
